@@ -1,0 +1,97 @@
+[
+    {
+        "questions": ["How are you?", "How are you doing?", "What's up?"],
+        "answers": ["I'm good, thank you!", "Doing great, how about you?", "I'm fine, thanks for asking!"]
+    },
+    {
+        "questions": ["What's your name?", "Who are you?", "Can you introduce yourself?"],
+        "answers": ["I'm your personal chatbot.", "You can call me Chatbot.", "I'm here to assist you."]
+    },
+    {
+        "questions": ["What is Python?", "Tell me about Python."],
+        "answers": ["Python is a high-level, interpreted programming language.", "Python is known for its readability and versatility.", "It's a popular language for web development, data analysis, and more."]
+    },
+    {
+        "questions": ["What is your purpose?", "Why are you here?", "What do you do?"],
+        "answers": ["I'm here to assist you with your questions.", "My purpose is to help you with information and tasks.", "I can provide answers and assist with various queries."]
+    },
+    {
+        "questions": ["Tell me a joke.", "Do you know any jokes?", "Can you make me laugh?"],
+        "answers": ["Why don't scientists trust atoms? Because they make up everything!", "Why was the math book sad? It had too many problems.", "I told my computer I needed a break, and now it won't stop sending me Kit-Kat jokes."]
+    },
+    {
+        "questions": ["What's the weather like?", "Can you tell me the weather?", "Is it sunny today?"],
+        "answers": ["I'm not equipped to provide real-time weather updates.", "I recommend checking a weather app for the latest updates.", "Sorry, I can't provide weather information."]
+    },
+    {
+        "questions": ["What's your favorite color?", "Do you have a favorite color?", "What color do you like?"],
+        "answers": ["I don't have a preference, but I think blue is nice.", "Colors don't really matter to me, but blue seems popular.", "I don't see colors, but blue is quite calming, isn't it?"]
+    },
+    {
+        "questions": ["How old are you?", "What's your age?", "When were you created?"],
+        "answers": ["I'm a program, so I don't have an age.", "I was created to assist you, age doesn't apply to me.", "Time is irrelevant to me, but I was created recently."]
+    },
+    {
+        "questions": ["What is AI?", "Can you explain artificial intelligence?", "Tell me about AI."],
+        "answers": ["AI stands for Artificial Intelligence, which simulates human intelligence in machines.", "Artificial Intelligence involves using machines to perform tasks that typically require human intelligence.", "AI includes various technologies such as machine learning, natural language processing, and robotics."]
+    },
+    {
+        "questions": ["Can you help me with my homework?", "Do you assist with studies?", "Can you solve academic problems?"],
+        "answers": ["I can certainly try to help! What do you need assistance with?", "I'm here to help with any questions you might have about your studies.", "Feel free to ask me any academic-related questions, and I'll do my best to assist."]
+    },
+    {
+        "questions": ["Do you have hobbies?", "What do you like to do?", "Do you enjoy any activities?"],
+        "answers": ["As a chatbot, I don't have hobbies, but I enjoy assisting you!", "My primary function is to help and provide information.", "I don't engage in activities, but I'm always here to help you."]
+    },
+    {
+        "questions": ["Can you sing?", "Do you sing?", "Can you perform a song?"],
+        "answers": ["I can't sing, but I can provide the lyrics to a song if you'd like.", "Singing isn't within my capabilities, but I can tell you about music.", "I'm not able to perform songs, but I can help you find some lyrics."]
+    },
+    {
+        "questions": ["What is your favorite movie?", "Do you watch movies?", "Can you recommend a movie?"],
+        "answers": ["I don't watch movies, but many people enjoy 'The Matrix' for its depiction of AI.", "I can't watch movies, but I hear 'Inception' is quite popular.", "Movies aren't my thing, but 'Interstellar' is a great choice for science fiction fans."]
+    },
+    {
+        "questions": ["Can you play games?", "Do you know any games?", "What games do you play?"],
+        "answers": ["I don't play games, but I can tell you about popular games.", "Games are fun! Have you tried 'Minecraft' or 'Among Us'?", "I don't play games, but I can provide information about them."]
+    },
+    {
+        "questions": ["What languages do you speak?", "Can you speak other languages?", "Are you multilingual?"],
+        "answers": ["I can understand and respond in English, but I'm also capable of basic communication in other languages.", "I primarily communicate in English, but I can try to assist with other languages.", "My main language is English, but I can provide some support in other languages."]
+    },
+    {
+        "questions": ["What is the meaning of life?", "Can you tell me the meaning of life?", "Why do we exist?"],
+        "answers": ["The meaning of life is a profound question that has many answers.", "Different people find different meanings in life, such as happiness, love, or purpose.", "It's a big question! Some say it's to find happiness and fulfillment."]
+    },
+    {
+        "questions": ["Do you have any friends?", "Who are your friends?", "Do you socialize?"],
+        "answers": ["I don't have friends in the traditional sense, but I enjoy interacting with users.", "I interact with many people, which is a form of socializing for me.", "Every user I assist is like a friend to me!"]
+    },
+    {
+        "questions": ["Can you dance?", "Do you know how to dance?", "Can you show me some dance moves?"],
+        "answers": ["I can't dance, but I can tell you about different dance styles.", "Dancing is fun! I can help you learn about various dances.", "I'm not capable of dancing, but I can provide information on dance moves."]
+    },
+    {
+        "questions": ["What is your favorite book?", "Do you read books?", "Can you recommend a book?"],
+        "answers": ["I don't read books, but '1984' by George Orwell is a classic.", "Books are great! Many people love 'To Kill a Mockingbird' by Harper Lee.", "I'm not a reader, but 'The Great Gatsby' by F. Scott Fitzgerald is highly recommended."]
+    },
+    {
+        "questions": ["Can you talk with me?", "Will you talk with me?", "Can we chat?"],
+        "answers": ["Of course! I'm here to chat with you.", "Sure, let's talk. What do you want to discuss?", "I'm here to listen. What's on your mind?"]
+    },
+    {
+        "questions": ["I am not feeling good", "I am sad", "I am upset"],
+        "answers": ["I'm sorry to hear that. Do you want to talk about what's bothering you?", "I'm here for you. Feel free to share your thoughts.", "It's okay to feel this way. How can I help you?"]
+    },
+    {
+        "questions": ["I am happy", "I am excited", "I feel great"],
+        "answers": ["That's wonderful to hear! What's making you happy?", "I'm glad you're feeling good! What's going on?", "Awesome! Tell me more about it."]
+    },
+    {
+        "questions": ["I am bored", "I have nothing to do", "I need entertainment"],
+        "answers": ["How about trying a new hobby or reading a book?", "You could watch a movie or play a game.", "Why not learn something new or take a walk outside?"]
+    }
+]
+
+
+
